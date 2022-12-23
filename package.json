@@ -3,6 +3,7 @@
   "description": "This is a React + vite boilerplate to be used with Tailwindcss.",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://finiobow.github.io/finio-main-site",
   "author": {
     "name": "João Paulo Moraes",
     "email": "joaopaulomoraes@outlook.com",
@@ -15,7 +16,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "pnpm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "tsc && vite build",
     "serve": "vite preview",
     "test": "jest",

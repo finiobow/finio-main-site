@@ -9,13 +9,15 @@ function App() {
             Welcome to
           </h2>
           <p className="my-3 text-4xl font-bold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
-            reactjs-vite-tailwindcss-boilerplate
+            Our Spaceship
           </p>
-          <p className="text-xl text-gray-400">Start building for free.</p>
+          <p className="text-xl text-gray-400">
+            We&rsquo;re Currently Building The New Wave 🛠️
+          </p>
           <p className="mt-5">
             <Avatar
               size="large"
-              src="https://www.gravatar.com/avatar/4405735f6f3129e0286d9d43e7b460d0"
+              src="https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&w=1000&q=80"
             />
           </p>
         </div>
