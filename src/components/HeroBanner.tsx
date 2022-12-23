@@ -117,9 +117,9 @@ function HeroHome() {
                       y2="100%"
                       id="hero-ill-a"
                     >
-                      <stop stopColor="#FFF" offset="0%" />
+                      <stop stopColor="#FAEA0A" offset="0%" />
                       <stop stopColor="#EAEAEA" offset="77.402%" />
-                      <stop stopColor="#DFDFDF" offset="100%" />
+                      <stop stopColor="#FAEA0A" offset="100%" />
                     </linearGradient>
                     <linearGradient
                       x1="50%"
@@ -140,7 +140,7 @@ function HeroHome() {
                       r="79.941%"
                       id="hero-ill-e"
                     >
-                      <stop stopColor="#4FD1C5" offset="0%" />
+                      <stop stopColor="#FAEA0A" offset="0%" />
                       <stop stopColor="#81E6D9" offset="25.871%" />
                       <stop stopColor="#338CF5" offset="100%" />
                     </radialGradient>
