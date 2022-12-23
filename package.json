@@ -3,7 +3,7 @@
   "description": "This is a React + vite boilerplate to be used with Tailwindcss.",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://finiobow.github.io/finio-main-site",
+  "homepage": "http://finiobow.github.io/finio-main-site/",
   "author": {
     "name": "João Paulo Moraes",
     "email": "joaopaulomoraes@outlook.com",

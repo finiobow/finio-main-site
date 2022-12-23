@@ -14,6 +14,7 @@ function App() {
           <p className="text-xl text-gray-400">
             We&rsquo;re Currently Building The New Wave 🛠️
           </p>
+          <p className="text-xl text-blue-500">Be Ready.</p>
           <p className="mt-5">
             <Avatar
               size="large"
