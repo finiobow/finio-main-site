@@ -48,9 +48,9 @@ function HeroHome() {
               className="leading-tighter mb-4 text-5xl font-extrabold tracking-tighter md:text-6xl"
               data-aos="zoom-y-out"
             >
-              Make your website{' '}
+              Get ready for our release coming{' '}
               <span className="bg-gradient-to-r from-blue-500 to-teal-400 bg-clip-text text-transparent">
-                wonderful
+                2023
               </span>
             </h1>
             <div className="mx-auto max-w-3xl">
@@ -59,10 +59,9 @@ function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                Our landing page template works on all devices, so you only have
-                to set it up once, and get beautiful results forever.
+                Keep a lookout for updates on our page 🔎
               </p>
-              <div
+              {/* <div
                 className="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center"
                 data-aos="zoom-y-out"
                 data-aos-delay="300"
@@ -83,7 +82,7 @@ function HeroHome() {
                     Learn more
                   </a>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
 
@@ -169,7 +168,7 @@ function HeroHome() {
                   </g>
                 </svg>
               </div>
-              <button
+              {/* <button
                 className="group absolute top-full flex -translate-y-1/2 items-center rounded-full bg-white p-4 font-medium shadow-lg"
                 onClick={(e) => {
                   e.preventDefault()
@@ -187,7 +186,7 @@ function HeroHome() {
                   <path d="M10 17l6-5-6-5z" />
                 </svg>
                 <span className="ml-3">Watch the full video (2 min)</span>
-              </button>
+              </button> */}
             </div>
 
             {/* Modal */}
