@@ -1,4 +1,5 @@
 import Avatar from 'components/Avatar'
+import HeroHome from './HeroBanner'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
               src="https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&w=1000&q=80"
             />
           </p>
+          <HeroHome />
         </div>
       </div>
     </div>
